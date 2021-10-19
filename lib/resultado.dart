@@ -11,7 +11,7 @@ class Resultado extends StatelessWidget {
 
   String get fraseResultado {
     if (pontuacao < 4) {
-      return 'É burro ou não!?';
+      return 'Busque ajuda!';
     } else if (pontuacao < 13) {
       return 'Misericórdia!';
     } else if (pontuacao < 22) {
