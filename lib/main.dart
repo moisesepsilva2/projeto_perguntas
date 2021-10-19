@@ -22,7 +22,7 @@ class _PerguntaAppState extends State<PerguntaApp> {
     },
     {
       'texto':
-          'Fundador da Rede Globo, falecido aos 99 anos em 2004. Roberto...',
+          'Fundador da Rede Globo, falecido aos 98 anos em 2003. Roberto...',
       'respostas': [
         {'texto': 'Terrestre', 'pontuacao': 1},
         {'texto': 'Aéreo', 'pontuacao': 1},
